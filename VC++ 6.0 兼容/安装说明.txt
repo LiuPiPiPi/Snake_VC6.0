@@ -1,0 +1,10 @@
+1、在属性中已兼容性xpsp3安装vc6.0_cn_full.exe
+
+2、安装目录一定改成 注意注意注意 D:\Microsoft Visual Studio，不然后面改文件目录很麻烦，
+
+3、找到把MSDEV.EXE拷贝到:\Microsoft Visual Studio\Common\MSDev98\Bin文件夹下替换掉MSDEV.EXE
+
+4、更改vc6.0的兼容性为windows xp(service pack3),并以勾选管理员身份运行，
+
+
+通过两个步骤就可完成win10安装
